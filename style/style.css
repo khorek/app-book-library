@@ -1,0 +1,19 @@
+body {
+    background: url(../img/library.jpg);
+    /* background: #fdf1bd; */
+}
+
+.book {
+    text-align: center;
+}
+
+.book-cover {
+    height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat
+    bacground-position: 50%;
+}
+
+.btn-primary {
+    margin: 20px;
+}
